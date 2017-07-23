@@ -13,6 +13,8 @@ public class StoreTest {
 	
 public static void main(String[] args) {
 	
+	System.out.println("Hello");
+	
 	
 AnnotationConfiguration cfg =new  AnnotationConfiguration();
 
