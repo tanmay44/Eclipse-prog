@@ -1,0 +1,11 @@
+
+<h1>Helloworld</h1>
+
+<form action="./hello.ds">
+
+Name:<input type="text"  name="name"/>
+Email:<input type="text" name="email"/>
+
+     <input type="submit" value="submit"/>
+
+</form>

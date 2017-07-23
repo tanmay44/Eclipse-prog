@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>  
+<!DOCTYPE hibernate-configuration PUBLIC  
+          "-//Hibernate/Hibernate Configuration DTD 3.0//EN"  
+          "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">  
+  
+<hibernate-configuration>  
+  
+    <session-factory>  
+        <property name="hbm2ddl.auto">create</property>  
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>  
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>  
+        <property name="connection.url">jdbc:mysql://localhost/test</property>  
+        <property name="connection.username">root</property>  
+        <property name="connection.password">root</property> 
+        <property name="show_sql">true</property>
+        <property name="connection.pool_size">10</property> 
+      	<mapping class="mydemo.Employee1"/>
+        <mapping class="mydemo.Regular_Employee"/>
+        <mapping class="mydemo.Contract_Employee"/>
+ 		<mapping class="mypackage.Employee"/>  
+ 		<mapping class="map.UserDetails"/>
+ 		<mapping class="map.Vehicle"/>
+    </session-factory>  
+  
+</hibernate-configuration>  
