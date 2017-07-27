@@ -1,7 +1,0 @@
-127.0.0.1 - - [08/Jul/2017:18:21:44 +0530] "GET / HTTP/1.1" 404 988
-0:0:0:0:0:0:0:1 - - [08/Jul/2017:18:21:48 +0530] "GET /SpringMVC/ HTTP/1.1" 200 148
-0:0:0:0:0:0:0:1 - - [08/Jul/2017:18:21:53 +0530] "GET /SpringMVC/hello.ds?name=svddgsrgrsger HTTP/1.1" 500 8555
-0:0:0:0:0:0:0:1 - - [08/Jul/2017:18:37:48 +0530] "GET /SpringMVC/ HTTP/1.1" 200 148
-0:0:0:0:0:0:0:1 - - [08/Jul/2017:18:37:56 +0530] "GET /SpringMVC/ HTTP/1.1" 200 148
-0:0:0:0:0:0:0:1 - - [08/Jul/2017:18:37:56 +0530] "GET /favicon.ico HTTP/1.1" 404 1010
-0:0:0:0:0:0:0:1 - - [08/Jul/2017:18:38:04 +0530] "GET /SpringMVC/hello.ds?name=grtrtgrggrgrgrtgrgrr HTTP/1.1" 500 8555

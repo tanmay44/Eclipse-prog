@@ -21,5 +21,6 @@
 	<classpathentry kind="lib" path="C:/Users/Store/Downloads/MVCjars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Store/Downloads/MVCjars/org.springframework.web.servlet-3.0.1.RELEASE-A.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Store/Downloads/MVCjars/org.springframework.web-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Store/Downloads/MVCjars/javax.servlet-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
