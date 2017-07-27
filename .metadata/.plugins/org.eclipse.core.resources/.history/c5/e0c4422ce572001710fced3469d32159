@@ -8,6 +8,5 @@
 LoginBean bean=(LoginBean)request.getAttribute("bean");
 
 out.print("welcome,"+bean.getName());
-out.print("welcome,"+bean.getName());
 
 %>
